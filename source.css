@@ -1,0 +1,106 @@
+#nav{
+    
+    margin:auto;
+    padding: 2px;
+    
+    
+}
+
+#nav li 
+{
+   display:inline;
+   padding:0;
+   margin:0;
+}
+
+#nav{
+   
+ border-style:   solid;
+ border-color: blue;   
+    
+    
+}
+
+
+img{
+    
+float : left;
+margin-left: 5px;
+margin-top: 10px;
+    
+}
+
+#entete{
+ width:100%;  
+
+    
+    
+}
+   
+#enveloppe{
+    
+float: left;
+margin-top: 30px;
+
+    
+}
+
+
+
+span{
+    
+font-weight: :italic;    
+    
+}
+
+#gauchegauche{
+    
+margin-left: 5px;
+
+}
+
+#centre{
+ float: left;  
+ margin-left:400px;
+ margin-top: 50px;
+
+
+
+ }
+
+.bouton{
+    
+    margin-left: 5px;
+
+}
+
+
+#droite{
+    
+
+margin-left: 1500px;   
+    
+}
+
+#data{
+    
+margin-top: 30px;
+margin-left: 40px;
+    
+}
+
+#tweeter{
+    
+margin-top: 30px;
+    margin-left: 40px;
+    
+}
+
+    
+
+
+
+
+    
+
+
